@@ -1,0 +1,126 @@
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\obj\Debug\SkyLabs.csproj.AssemblyReference.cache
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\obj\Debug\App.baml
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\obj\Debug\MainWindow.g.cs
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\obj\Debug\App.g.cs
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\obj\Debug\SkyLabs_MarkupCompile.cache
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\obj\Debug\SkyLabs_MarkupCompile.lref
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\bin\Debug\SkyLabs.exe.config
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\bin\Debug\SkyLabs.exe
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\bin\Debug\SkyLabs.pdb
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\bin\Debug\FontAwesome.Sharp.Pro.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\obj\Debug\MainWindow.baml
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\obj\Debug\SkyLabs.g.resources
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\obj\Debug\SkyLabs.Properties.Resources.resources
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\obj\Debug\SkyLabs.csproj.GenerateResource.cache
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\obj\Debug\SkyLabs.csproj.CoreCompileInputs.cache
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\obj\Debug\SkyLabs.csproj.Up2Date
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\obj\Debug\SkyLabs.exe
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\obj\Debug\SkyLabs.pdb
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\obj\Debug\Views\Add_Patient.g.cs
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\obj\Debug\Views\Add_Patient.baml
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\obj\Debug\Views\Enter_Results.g.cs
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\obj\Debug\Views\Enter_Results.baml
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\obj\Debug\Views\DisplayInformation.g.cs
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\obj\Debug\Views\DisplayInformation.baml
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\bin\Debug\System.Buffers.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\bin\Debug\System.Memory.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\bin\Debug\System.Text.Json.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\bin\Debug\System.ValueTuple.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\bin\Debug\System.Buffers.xml
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\bin\Debug\System.Memory.xml
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\bin\Debug\System.Text.Json.xml
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\bin\Debug\System.ValueTuple.xml
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\obj\Debug\Views\Home.g.cs
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\SkyLabs\obj\Debug\Views\Home.baml
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\bin\Debug\SkyLabs.exe.config
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\bin\Debug\SkyLabs.exe
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\bin\Debug\SkyLabs.pdb
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\bin\Debug\FontAwesome.Sharp.Pro.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\bin\Debug\System.Buffers.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\bin\Debug\System.Memory.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\bin\Debug\System.Text.Json.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\bin\Debug\System.ValueTuple.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\bin\Debug\System.Buffers.xml
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\bin\Debug\System.Memory.xml
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\bin\Debug\System.Text.Json.xml
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\bin\Debug\System.ValueTuple.xml
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\obj\Debug\SkyLabs.csproj.AssemblyReference.cache
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\obj\Debug\App.baml
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\obj\Debug\MainWindow.g.cs
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\obj\Debug\Views\Add_Patient.g.cs
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\obj\Debug\Views\DisplayInformation.g.cs
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\obj\Debug\Views\Enter_Results.g.cs
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\obj\Debug\Views\Home.g.cs
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\obj\Debug\App.g.cs
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\obj\Debug\SkyLabs_MarkupCompile.cache
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\obj\Debug\SkyLabs_MarkupCompile.lref
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\obj\Debug\MainWindow.baml
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\obj\Debug\Views\Add_Patient.baml
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\obj\Debug\Views\DisplayInformation.baml
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\obj\Debug\Views\Enter_Results.baml
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\obj\Debug\Views\Home.baml
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\obj\Debug\SkyLabs.g.resources
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\obj\Debug\SkyLabs.Properties.Resources.resources
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\obj\Debug\SkyLabs.csproj.GenerateResource.cache
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\obj\Debug\SkyLabs.csproj.CoreCompileInputs.cache
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\obj\Debug\SkyLabs.csproj.Up2Date
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\obj\Debug\SkyLabs.exe
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Mukon\SkyLabs\obj\Debug\SkyLabs.pdb

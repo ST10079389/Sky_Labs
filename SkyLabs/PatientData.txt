@@ -1,0 +1,19 @@
+Name: ddddddddd
+Surname: ddddddd
+Gender: M
+Time Sample Taken: 9/18/2024 8:40:09 AM
+Date Of Birth: 9/1/2024 12:00:00 AM
+Age: 17 Days Old
+Mobile Number: +27 ddddddddd
+
+Requested Tests:
+
+Test Name:  Sodium
+Result: ddddddddd
+Comment: ddddddd
+
+Test Name:  Urea
+Result: 
+Comment: 
+
+

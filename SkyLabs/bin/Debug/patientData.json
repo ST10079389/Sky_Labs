@@ -1,0 +1,23 @@
+{
+  "RequistionId": "0002",
+  "TimeSampleTaken": "2024-09-18T08:57:44.0965201+02:00",
+  "FirstName": "bbbbbbbbb",
+  "Surname": "bbbbbbbb",
+  "Gender": "U",
+  "DateOfBirth": "2024-09-02T00:00:00",
+  "Age": 16,
+  "AgeValue": "Days Old",
+  "MobileNumber": "\u002B27 bbbbbbbbb",
+  "RequestedTests": [
+    {
+      "TestId": 5,
+      "Result": "bbbbbbbbbbbbbb",
+      "Comment": "bbbbbbbbbbb"
+    },
+    {
+      "TestId": 6,
+      "Result": "nnnnnnnnnnnn",
+      "Comment": "nnnnnnnnnnnnn"
+    }
+  ]
+}

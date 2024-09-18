@@ -1,0 +1,6 @@
+1, Na, Sodium, True
+2, K, Potassium, True
+3, Cr, Createnine, True
+4, Ucr, Urine-Createnine, False
+5, Ur, Urea, True
+6, UCE, Urea+Createnine+Electrolytes, True

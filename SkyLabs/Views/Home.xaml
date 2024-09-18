@@ -1,0 +1,33 @@
+﻿<Page x:Class="SkyLabs.Views.Home"
+                              Height="650" Width="940"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:SkyLabs.Views" xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+      mc:Ignorable="d"
+      Title="Home">
+    <Border CornerRadius="45" Background="#27396b" >
+        <Grid>
+            <Label x:Name="welcomeText" Content="" HorizontalAlignment="Left" Margin="230,10,0,0" VerticalAlignment="Top" Width="440" FontSize="72" Foreground="White" Background="Transparent" BorderBrush="Black" Height="91"/>
+            <Image HorizontalAlignment="Center" Height="591" VerticalAlignment="Center" Width="873" Source="\Images\trnava-university-_9xRHrMOjeg-unsplash.jpg"/>
+            <Rectangle Fill="Black" 
+               Opacity="0.5" Margin="33,34,33,34" RenderTransformOrigin="0.5,0.5">
+                <Rectangle.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform AngleY="0.026"/>
+                        <RotateTransform/>
+                        <TranslateTransform Y="0.2"/>
+                    </TransformGroup>
+                </Rectangle.RenderTransform>
+            </Rectangle>
+            <Label Content="Saving Patients" HorizontalAlignment="Left" Margin="76,106,0,0" VerticalAlignment="Top" Height="65" Width="288" FontSize="40" Foreground="White"/>
+            <Label Content="Welcome To Sky Labs" HorizontalAlignment="Left" Margin="76,176,0,0" VerticalAlignment="Top" FontSize="50" Background="{x:Null}" Foreground="White"/>
+            <Label Content="est. 2002" HorizontalAlignment="Left" Margin="76,258,0,0" VerticalAlignment="Top" Foreground="White" FontSize="36"/>
+            <Border CornerRadius="45" BorderBrush="White" BorderThickness="1" HorizontalAlignment="Left" Height="71" Margin="76,325,0,0" VerticalAlignment="Top" Width="439" Background="#FF002495">
+                <Button x:Name="addPatientButton" Content="Add Patient" HorizontalAlignment="Center" Height="58" VerticalAlignment="Center" Width="388" FontSize="40" Background="Transparent" Foreground="White" BorderBrush="Transparent" Click="addPatientButton_Click"/>
+            </Border>
+        </Grid>
+    </Border>
+</Page>

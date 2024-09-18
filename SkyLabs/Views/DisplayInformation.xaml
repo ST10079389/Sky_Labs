@@ -1,0 +1,32 @@
+﻿<Page x:Class="SkyLabs.Views.DisplayInformation"
+                              Height="650" Width="940"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:SkyLabs.Views" xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+      mc:Ignorable="d"
+      Title="Request Tests">
+    <Border CornerRadius="45" Background="#27396b">
+        <Grid>
+            <DataGrid x:Name="dataGrid" AutoGenerateColumns="False" Margin="66,202,66,202">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="First Name" Binding="{Binding FirstName}" Width="110"/>
+                    <DataGridTextColumn Header="Surname" Binding="{Binding Surname}" Width="110"/>
+                    <DataGridTextColumn Header="Age" Binding="{Binding Age}" Width="50"/>
+                    <DataGridTextColumn Header="Gender" Binding="{Binding Gender}" Width="50"/>
+                    <DataGridTextColumn Header="Mobile Number" Binding="{Binding MobileNumber}" Width="140"/>
+                    <DataGridTextColumn Header="Time Sample Was Taken" Binding="{Binding TimeSampleTaken}" Width="180"/>
+                    <DataGridTextColumn Header="Date Of Birth" Binding="{Binding DateOfBirth}" Width="*"/>
+                </DataGrid.Columns>
+            </DataGrid>
+            <Label x:Name="welcomeText" Content="Enter Results" HorizontalAlignment="Left" Margin="231,0,0,0" VerticalAlignment="Top" Width="440" FontSize="72" Foreground="White" Background="Transparent" BorderBrush="Black" Height="91"/>
+            <ComboBox x:Name="patientNameBox" HorizontalAlignment="Left" Margin="250,132,0,0"  VerticalAlignment="Top" Width="624" Height="47" FontSize="30" SelectionChanged="patientNameBox_SelectionChanged"  />
+            <Label Content="Patient Name:" HorizontalAlignment="Left" Margin="27,127,0,0" VerticalAlignment="Top" Height="57" Width="202" Foreground="White" FontSize="30"/>
+            <Button x:Name="exportText" Content="Text File" HorizontalAlignment="Left" Margin="157,467,0,0" VerticalAlignment="Top" Height="58" Width="255" Click="exportText_Click" Background="#FF6000C6" Foreground="White" BorderBrush="Black" FontSize="24" />
+            <Button x:Name="exportJson" Content="Json File" HorizontalAlignment="Left" Margin="562,467,0,0" VerticalAlignment="Top" Height="58" Width="255" Click="exportJson_Click" Background="#FF0300DA" Foreground="White" BorderBrush="Black" FontSize="24" />
+
+        </Grid>
+    </Border>
+</Page>
+

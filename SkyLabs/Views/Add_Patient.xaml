@@ -1,0 +1,35 @@
+﻿<Page x:Class="SkyLabs.Views.Add_Patient"
+                   Height="650" Width="940"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:SkyLabs.Views" xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+      mc:Ignorable="d"
+      Title="Request Tests">
+    <Border CornerRadius="45" Background="#27396b">
+        <Grid>
+            <Label x:Name="welcomeText" Content="Request Tests" HorizontalAlignment="Left" Margin="224,0,0,0" VerticalAlignment="Top" Width="440" FontSize="72" Foreground="White" Background="Transparent" BorderBrush="Black" Height="91"/>
+            <StackPanel x:Name="CheckboxContainer" Orientation="Vertical" Margin="564,344,122,168"/>
+            <TextBox x:Name="firstNameBox" HorizontalAlignment="Left" Margin="237,118,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="531" Height="40" FontSize="26"/>
+            <TextBox x:Name="surnameBox" HorizontalAlignment="Left" Margin="237,170,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="531" Height="43" FontSize="26" />
+            <xctk:TimePicker Name="TimePicker" Format="ShortTime" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="329,446,0,0" Width="151" FontSize="24"/>
+            <ComboBox x:Name="genderComboBox" HorizontalAlignment="Left" Margin="237,0,0,0" VerticalAlignment="Center" Width="228" FontSize="28" Height="50">
+                <ComboBoxItem Content="M"/>
+                <ComboBoxItem Content="F"/>
+                <ComboBoxItem Content="U"/>
+            </ComboBox>
+            <DatePicker x:Name="dateOfBirthPicker" HorizontalAlignment="Left" Margin="240,380,0,0" VerticalAlignment="Top" Height="49" Width="204" FontSize="26"/>
+            <TextBox x:Name="mobileNumberBox" MaxLength="13" HorizontalAlignment="Left" Margin="237,233,0,0" TextWrapping="Wrap" Text="+27 " VerticalAlignment="Top" Width="531" Height="43" FontSize="28"/>
+            <Label Content="First Name:" HorizontalAlignment="Left" Margin="46,111,0,0" VerticalAlignment="Top" Height="47" Width="164" Foreground="White" FontSize="30"/>
+            <Label Content="Surname:" HorizontalAlignment="Left" Margin="46,163,0,0" VerticalAlignment="Top" Height="50" Width="164" Foreground="White" FontSize="30"/>
+            <Label Content="Time Sample was Taken:" HorizontalAlignment="Left" Margin="46,440,0,0" VerticalAlignment="Top" Height="42" Width="278" Foreground="White" FontSize="24"/>
+            <Label Content="Mobile Number:" HorizontalAlignment="Left" Margin="46,228,0,0" VerticalAlignment="Top" Height="48" Width="186" Foreground="White" FontSize="24"/>
+            <Label Content="Gender:" HorizontalAlignment="Left" Margin="46,296,0,0" VerticalAlignment="Top" Height="45" Width="132" Foreground="White" FontSize="30"/>
+            <Label Content="Date of Birth:" HorizontalAlignment="Left" Margin="46,374,0,0" VerticalAlignment="Top" Height="61" Width="189" Foreground="White" FontSize="30"/>
+            <Label Content="Tests Available:" HorizontalAlignment="Left" Margin="564,290,0,0" VerticalAlignment="Top" Height="51" Width="217" Foreground="White" FontSize="30"/>
+            <Button x:Name="Save_Patient" Content="Save Patient" HorizontalAlignment="Center" Margin="0,544,0,0" VerticalAlignment="Top" Height="63" Width="428" Click="Save_Patient_Click" Background="#FF000BB7" BorderBrush="Black" Foreground="White" FontSize="36"/>
+
+        </Grid>
+    </Border>
+</Page>
